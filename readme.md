@@ -1,8 +1,9 @@
 <img width="100%" src="./img/banner_low.png"/>
+<!--
+# Hey there 👋
+-->
 
-<h1 align='right' style='margin-top: -3rem;'> Hey there 👋</h1>
-
-### 👩‍💻 About Me</h3>
+# 👩‍💻 About Me</h3>
 
 <!-- Soy un desarrollador full-stack apasionado en la construcción de
 aplicaciones web y móviles robustas y escalables.
@@ -35,11 +36,13 @@ to stay at the forefront of technological advancements.
 I hold a degree in Computer Science Engineering from
 the University of Computer Science of Havana, graduated in 2023.
 
-### 🛠 Language and tools
+# 🛠 Language and tools
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulioGuillermo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+####
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -121,14 +124,14 @@ the University of Computer Science of Havana, graduated in 2023.
 <!--   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1" alt="Layout with last medium posts"  /> -->
 <!-- </div> -->
 
-### 🔥 My Stats
+# 🔥 My Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JulioGuillermo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=JulioGuillermo&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-### 🏆 My Trophies
+# 🏆 My Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=JulioGuillermo&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
